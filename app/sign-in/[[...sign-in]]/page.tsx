@@ -36,7 +36,7 @@ export default function SignInPage() {
             </div>
 
             <footer className="mt-16 text-[10px] font-bold text-gray-400 tracking-widest uppercase flex items-center gap-4">
-                <span>© 2024 Narratly Co-Writer</span>
+                <span>© 2026 Narratly Co-Writer</span>
                 <span className="w-1 h-1 rounded-full bg-gray-300" />
                 <a href="#" className="hover:text-gray-600 transition-colors">Terms of Service</a>
                 <a href="#" className="hover:text-gray-600 transition-colors">Privacy Policy</a>
